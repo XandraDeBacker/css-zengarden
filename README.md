@@ -1,1 +1,1 @@
-This is the link to my zen garden: https://xandradebacker.github.io/css-zengarden/
+You're welcome to find my zengarden creation [here](https://xandradebacker.github.io/css-zengarden/)
